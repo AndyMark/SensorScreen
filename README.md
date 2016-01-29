@@ -10,3 +10,10 @@ This is a place for software related information about the Sensor Screen
   <li><a href="http://www.andymark.com/Electronic-p/am-3212.htm">Product Page</a></li>
   <li><a href="https://github.com/AndyMark/SensorScreen/raw/master/Firmware/AM3212.CYA">Firmware</a></li>
 </ul>
+
+
+##Tested microSD Cards
+<ul>
+  <li>SanDisk 2GB microSD FAT</li>
+  <li>Kingston 8GB microSDHC FAT32</li>
+</ul>
